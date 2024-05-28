@@ -15,7 +15,7 @@ import subprocess
 import pandas as pd
 import notebook
 
-t_input =r"C:\Users\OWEN\PycharmProjects\pythonProject5\video_2024-05-24_13-53-08.mp4"
+t_input =r"VIDEO FILE PATH"
 
 
 def deepdream(graph, t_input, t_preprocessed, layers, iter_n=10, step=1.5, octave_n=4, octave_scale=1.4):
